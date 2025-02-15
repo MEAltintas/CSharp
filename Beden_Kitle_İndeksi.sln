@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beden_Kitle_İndeksi", "Beden_Kitle_İndeksi\Beden_Kitle_İndeksi.csproj", "{FD03E6C5-9A01-4DAC-8FEC-94D780A1A994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD03E6C5-9A01-4DAC-8FEC-94D780A1A994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD03E6C5-9A01-4DAC-8FEC-94D780A1A994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD03E6C5-9A01-4DAC-8FEC-94D780A1A994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD03E6C5-9A01-4DAC-8FEC-94D780A1A994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
