@@ -6,5 +6,3 @@
 
 ### Benimle iletişime geçebilirsiniz
 E-posta: mezgialtintas@gmail.com
-
-
