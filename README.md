@@ -7,12 +7,12 @@ Amacımız, hem **yeni başlayanlara** hem de **deneyimli geliştiricilere** ilh
 
 ## 🛠 Kullanılan Teknolojiler
 
-| Kategori       | Teknoloji / Araçlar           |
-| -------------- | ----------------------------- |
-| **Dil**        | C# (.NET 6, .NET 7, .NET 8)   |
-| **Framework**  | ASP.NET Core, WinForms, WPF   |
-| **Veritabanı** | SQL Server, SQLite            |
-| **Araçlar**    | Visual Studio, VS Code |
+| Kategori       | Teknoloji / Araçlar                 |
+| -------------- | -----------------------------       |
+| **Dil**        | C# (.NET 6, .NET 7, .NET 8, .NET 9) |
+| **Framework**  | ASP.NET Core, WinForms, WPF         |
+| **Veritabanı** | SQL Server, SQLite                  |
+| **Araçlar**    | Visual Studio, VS Code              |
 
 ---
 
